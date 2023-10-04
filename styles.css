@@ -17,13 +17,13 @@ body{
     padding: 40px 35px;
     text-align: center;
 }
-.search{
+.Search{
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-.search input{
+.Search input{
     border: 0;
     outline: 0;
     background: #ebfffc;
@@ -35,7 +35,7 @@ body{
     margin-right: 16px;
     font-size: 18px;
 }
-.search button{
+.Search button{
     border: 0;
     outline: 0;
     background: #ebfffc;
@@ -44,7 +44,7 @@ body{
     height: 60px;
     cursor: pointer; 
 }
-.search button i{
+.Search button i{
     width: 16px;
 }
 .weather-icon{
